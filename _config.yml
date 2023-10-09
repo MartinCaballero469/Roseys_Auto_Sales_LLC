@@ -13,14 +13,14 @@ baseurl: "/Roseys_Auto_Sales_LLC"
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone: 
+timezone: America/Chicago
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Rosey's Auto Sales # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: we sell affordable and reliable cars! # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -76,8 +76,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
-
+avatar: https://github.com/MartinCaballero469/imgstore/blob/main/profileimg.jpg?raw=true
 # boolean type, the global switch for TOC in posts.
 toc: true
 
