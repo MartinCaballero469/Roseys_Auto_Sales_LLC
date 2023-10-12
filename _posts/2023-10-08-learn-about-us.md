@@ -3,9 +3,9 @@ layout: page
 title: Roseys Auto Sales
 date: '2023-10-08 23:11:09 -0500'
 pin: true
-image: assets\img\Logodefault.png
+image: assets/img/Logodefault.png
 ---
-<img style="border:0;" src="\assets\img\PostLogo.png">
+<img style="border:0;" href="/assets/img/PostLogo.png">
 
 <h1 class="text-center">Drive Away with a Deal</h1>
 
