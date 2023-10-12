@@ -5,10 +5,9 @@ date: '2023-10-08 23:11:09 -0500'
 pin: true
 image: https://github.com/MartinCaballero469/imgstore/blob/main/favicon-RASLLC-logo-2.png?raw=true
 ---
-<img style="border:0; margin-top:-15%; margin-bottom:-15%;" src="https://github.com/MartinCaballero469/imgstore/blob/main/favicon-RASLLC-home-page.png?raw=true">
+<img style="border:0; margin-top:-15%; margin-bottom:-15%;" src="https://github.com/MartinCaballero469/imgstore/blob/main/favicon-RASLLC-home-page.png?raw=true" alt="image not found">
 
 <h1 class="text-center">Drive Away with a Deal</h1>
-
 
 <p class="text-center"> Quality used cars at low prices. Cash or installments.
 Cash or Credit, We Have It Used cars for any budget or credit.
