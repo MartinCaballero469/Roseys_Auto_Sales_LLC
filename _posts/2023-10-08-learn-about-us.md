@@ -3,9 +3,9 @@ layout: page
 title: Roseys Auto Sales
 date: '2023-10-08 23:11:09 -0500'
 pin: true
-image: https://github.com/MartinCaballero469/imgstore/blob/main/favicon-RASLLC-logo-2.png?raw=true
+image: assets\img\Logodefault.png
 ---
-<img style="border:0; margin-top:-15%; margin-bottom:-15%;" src="https://github.com/MartinCaballero469/imgstore/blob/main/favicon-RASLLC-home-page.png?raw=true" alt="image not found">
+<img style="border:0;" src="\assets\img\PostLogo.png">
 
 <h1 class="text-center">Drive Away with a Deal</h1>
 
