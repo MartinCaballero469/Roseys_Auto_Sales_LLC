@@ -2,7 +2,7 @@
 layout: post
 title: 2014 Chevrolet Malibu LS
 date: '2023-10-16 00:33:20 -0500'
-categories: [Available, Chevrolet]
+# categories: [Available, Chevrolet]
 Tags: [available]
 img_path: /assets/img/2023-10-16-2014-chevrolet-malibu-ls/
 image:
