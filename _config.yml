@@ -37,7 +37,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Rocio Caballero 
-  email: rociovasquez45@gmail.com # change to your email address
+  email: vasquezrosey45@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username # change to your twitter homepage
@@ -65,7 +65,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode:  [dark]
+theme_mode:  [light]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
