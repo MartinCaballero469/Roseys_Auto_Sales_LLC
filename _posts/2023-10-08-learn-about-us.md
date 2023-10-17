@@ -13,7 +13,7 @@ image: assets/img/Logodefault.png
 Cash or Credit, We Have It Used cars for any budget or credit.
 </p>
 
-<h1 style="text-align: center;"><a href="/categories/available/" class="btn-outline-light btn btn-lg">Look through our Available Inventory</a></h1>
+<h1 style="text-align: center;"><a href="/categories/available/" class="px-5 py-2 btn active" role="button">Look at our Available Inventory</a></h1>
 
 <h1 class="text-center">Our Location</h1>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3355.6424819644208!2d-96.97887842376153!3d32.748682785432635!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864e85e7d5e36573%3A0x4e148f068efd0fbe!2sRosey&#39;s%20Auto%20Sales%20LLC!5e0!3m2!1sen!2sus!4v1697069729396!5m2!1sen!2sus"  style="border:0; width:100%; height:300px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
